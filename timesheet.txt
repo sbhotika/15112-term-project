@@ -1,0 +1,20 @@
+Saturday, 9th April 2016: 4 hours researching Sudoku algorithms
+Monday, 11th April 2016: 10 hours putting together User Interface, Design and Storyboard.
+Tuesday, 12th April 2016: 4 hours coding up User Interface.
+Wednesday, 13th April 2016: 2 hours researched jigsaw puzzles and tried to work with them. Failed miserably.
+Thursday, 14th April 2016: 3 hours broke down jigsaw puzzle problem and tried to figure out how to tackle it. 1 hour looked up other possible puzzles.
+Friday, 15th April 2016: 2 hours tried to edit images and manipulate them and looked up mazes. 
+Saturday, 16th April 2016: 5 hours researched algorithms for each individual puzzle and struck the mother load with Maze. Started thinking about it a lot. 
+Sunday, 17th April 2016: 8 hours writing pseudo code for the maze based on Prim's algorithm and got something functional.
+Monday, 18th April 2016: 5 hours cried over my laptop trying to debug Prim's algorithm. Got super-excited when I thought I had it figured out. Miserable again when it didn't change anything. Thought about Kruskal's algorithm.
+Tuesday, 19th April 2016: 6 hours super-excite much-hype because I guess I know what I am doing now. Wrote lots of pseudo code for Kruskal's algorithm. Coded it up and then cried because bugs but it kind of works with a decent UI. 
+Started thinking about how to bring it all together and two other algorithms: Game of Life and recursive drawing thingy. Also thinking about live-rendering.
+Wednesday, 20th April 2016: 4 hours- Joined both mazes together using ui_demo.py. Started thinking about at least one other algorithm to implement.
+Thursday, 21st April 2016: 3 hours sat with adapted_prim.py and tried to write solver instead of doing new algorithm
+Saturday, 23rd April 2016: 4 hours sat and completely re-wrote implementation of Prim's algorithm to make it function properly
+Sunday, 24th April 2016: 5 hours realized that TP due this week so panicked and emailed everyone. Tried to make drawing functions nicer. Hit stone wall. 
+Monday, 25th April 2016: 3 hours spent linking up both mazes properly through ui_main.py, and debugging so walls are drawn correctly. 
+Tuesday, 26th April 2016: 1 hour spent staring at screen. 
+Thursday, 28th April 2016: 5 hours spent fixing User Interface and connecting both kruskal.py and prim.py to class Maze in Maze.py
+Friday, 29th April 2016: 5 hours spent working on player's use for this game
+Saturday, 30th April 2016: 2 hours spent polishing up user interface, and making sure buttons work as they should. 4 hours spent on documentation for TP. 
